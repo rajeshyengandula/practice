@@ -1,1 +1,2 @@
-Hi This is the text.txt file.
+Hi This is the text.txt file. this is pull request and merged
+this is fixing of bug.
